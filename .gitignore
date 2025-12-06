@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Test/cache
+.pytest_cache/
+.cache/
+
+# SQLite database (optional: if you don't want to track scores)
+# Uncomment the next line if you want the DB to be ignored by git:
+# game_scores.db
+
+# Logs
+*.log
